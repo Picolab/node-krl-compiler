@@ -1,5 +1,7 @@
 # krl-compiler
 
+MOVED TO https://github.com/Picolab/pico-engine/tree/master/packages/krl-compiler
+
 [![build status](https://secure.travis-ci.org/Picolab/node-krl-compiler.svg)](https://travis-ci.org/Picolab/node-krl-compiler)
 
 [KRL](http://picolabs.io/) to javascript compiler.
